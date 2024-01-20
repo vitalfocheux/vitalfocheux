@@ -1,4 +1,4 @@
-### Hello there 👋![Uploading image.png…]()
+### Hello there 👋
 
 
 <!--
