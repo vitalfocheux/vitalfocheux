@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vital's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalfocheux&show_icons=true&theme=dark)
+![Vital's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalfocheux&show_icons=true&theme=dark&rank_icon=percentile)
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalfocheux&hide=html,css,cmake&layout=donut&langs_count=20&theme=dark)
