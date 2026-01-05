@@ -17,6 +17,8 @@ jobs:
           sudo apt-get remove -y containerd containerd.io || true
           sudo apt-get update
           sudo apt-get install -y docker.io jq
+          sudo systemctl start docker
+          sudo systemctl enable docker
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
